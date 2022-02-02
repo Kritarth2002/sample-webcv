@@ -1,0 +1,130 @@
+
+.firstcontainer{
+  background-color: #E4F9F5;
+  position:relative;
+  padding-top: 200px;
+}
+body{
+  color:#40514E;
+  margin:0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+
+}
+/* resources
+cutcircle.com
+favicon.cio
+flaticon.com*/
+
+h1{
+  font-size:5.625em;
+  margin:0;
+
+
+      margin:50px auto 0 auto;
+  color:#66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color:#66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem ;
+  font-weight: normal;
+}
+h3{
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+a{
+    color:#11999E;
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+    text-decoration: none;
+    line-height: 2;
+    margin-right: 25px;
+      margin-left: 25px;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom:300px;
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top: 50px;
+
+}
+.computer{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.chilli{
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+.profile-img{
+  margin-top: 50px;
+  width:21%;
+}
+.skill-row{
+  /* display:inline-block; */
+  width: 50%;
+  margin:auto;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+}
+.btn{
+  margin-top: 50px;
+  border-radius: 8px;
+  background-color: #2bc4ad;
+  padding: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
+
+
+}
+.btn:hover{
+  background-color: #30e3cb;
+}
+.contact{
+  color: white;
+  font-weight: bolder;
+  font-family: 'Merriweather', serif;
+  text-decoration: none;
+line-height: 1;
+
+}
+a:hover{
+  color:white;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted ;
+  width:5%;
+  border-color: #EAF6F6;
+  border-width:5px;
+}
+.middle-container{
+  margin-bottom: 50px;
+}
+.intro{
+  width:20%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 2;
+}
+.bottom-container{
+  padding-top: 25px;
+  background-color: #66BFBF;
+  height: 100px;
+
+}
+.bottom{
+  color: #EAF6F6;
+}
